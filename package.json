@@ -1,0 +1,19 @@
+{
+  "name": "express-app-nishikata",
+  "version": "1.0.0",
+  "description": "express-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SokhonC/express-typescript-nishikata.git"
+  },
+  "author": "Sokhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SokhonC/express-typescript-nishikata/issues"
+  },
+  "homepage": "https://github.com/SokhonC/express-typescript-nishikata#readme"
+}
